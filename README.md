@@ -1,20 +1,18 @@
 [![MasterHead](https://th.bing.com/th/id/R.58d3e6bdf9b31c94ba149954002c30cc?rik=4gbMGVMXijlOiA&riu=http%3a%2f%2fwww.horizont.com.hr%2fposao%2fbackend-developer.gif&ehk=z%2fsae0Sh0cVPibIMgcBr%2fs5Lo%2bD945rNQMZb4VFnW0s%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
-<h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Satyam Kumar Jha</h1>
+<h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Manoj Kumar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkumarjha2002&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkumarjha2002" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumar968&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumar968" /> </p>
 
 - 🌱 I’m currently learning *Spring Boot*
-- 📫 How to reach me *sjha02859@gmail.com*
+- 📫 How to reach me *manojkumarmhala@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_cm7oLJodnm2bb198PhAvCgP1Bx_xgYR/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1BNEGGc_wijpWli9jFZusr5j_2kDWEkuG?usp=sharing/view)
 
-- ⚡ Fun fact *I think I am funny!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/satyam-kumar-jha-29b354235/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="30"/></a>
-<a href="https://twitter.com/SatyamK25680503" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" /></a>
-<a href="https://www.hackerrank.com/sjha02859?hr_r=1" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="30" /></a>
+<a href="https://www.linkedin.com/in/manoj-kumer-b8b399157/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="30"/></a>
+<a href="https://www.hackerrank.com/manojkumarmhala" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Hacker Rank" height="30" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img
@@ -61,8 +59,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamkumarjha2002&show_icons=true&locale=en&layout=compact" alt="Satyam Kumar Jha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojkumar968&show_icons=true&locale=en&layout=compact" alt="Manoj Kumar " /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamkumarjha2002&show_icons=true&locale=en" alt="Satyam Kuamr Jha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manojkumar968&show_icons=true&locale=en" alt="Manoj Kuamr " /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarjha2002&" alt="Satyam Kumar Jha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumar968&" alt="Manoj Kumar " /></p>
