@@ -1,9 +1,36 @@
-[![MasterHead](https://th.bing.com/th/id/R.58d3e6bdf9b31c94ba149954002c30cc?rik=4gbMGVMXijlOiA&riu=http%3a%2f%2fwww.horizont.com.hr%2fposao%2fbackend-developer.gif&ehk=z%2fsae0Sh0cVPibIMgcBr%2fs5Lo%2bD945rNQMZb4VFnW0s%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
-<h1 align="center">Hii <img style=" height: 30px;" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" alt=""> I am Manoj Kumar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400" />
+</div>
+
+<div style="display: flex; justify-content: space-around;" >
+<div>
+
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=000000&amp;size=30&amp;lines=Hey!+👋+It's+Manoj+Kumar!;Learning+Java+Backend+Development...;" style="max-width: 100%;">
+<br/>
+<h3 align="left">A Java Backend developer</h3>
+I am a highly passionate Backend developer who loves, creating APIs, and working with databases. I am also extremely interested in creating elegant solutions, more specifically on System Design and High performaning solutions.
+</div>
+</div>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumar968&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumar968" /> </p>
 
-- 🌱 I’m currently learning *Spring Boot*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manojkumar968" alt="manojkumar968" /></a> </p>
+<br>
+
+---
+
+<div>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+</div>
+
+### :woman_technologist: About Me :
+ 
+- 🌱 I’m currently learning **Mysql ,Spring Boot, Hibernate**
+
+- 👯 I’m looking to collaborate on LinkedIn & GitHub
+
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://manojkumarportfolio.netlify.app/)
+
 - 📫 How to reach me *manojkumarmhala@gmail.com*
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1BNEGGc_wijpWli9jFZusr5j_2kDWEkuG?usp=sharing/view)
@@ -56,6 +83,14 @@
       width="40"
       height="40"
     />
+    
+     <img
+      src="https://th.bing.com/th?q=Postman+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+    
 </p>
 
 
