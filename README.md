@@ -83,13 +83,7 @@ I am a highly passionate Backend developer who loves, creating APIs, and working
       width="40"
       height="40"
     />
-    
-     <img
-      src="https://th.bing.com/th?q=Postman+Logo.png&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.5&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
+
     
 </p>
 
