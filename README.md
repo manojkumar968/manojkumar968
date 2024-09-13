@@ -29,11 +29,8 @@ An Aspiring Java Backend Developer passionate about programming and always ready
 
 - 👯 I’m looking to collaborate on LinkedIn & GitHub
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://manojkumarportfolio.netlify.app/)
-
 - 📫 How to reach me *manojkumarmhala@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1BNEGGc_wijpWli9jFZusr5j_2kDWEkuG?usp=sharing/view)
 
 
 <h3 align="left">Connect with me:</h3>
